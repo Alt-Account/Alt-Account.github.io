@@ -1,5 +1,7 @@
 ## Poketwo Autocatcher [V1]
-This Poketwo catcher will be still working even after message intent is disabled.
+This Autocatcher might get flagged by poketwo and the account using it will most likely get banned. This Autocatcher will use AI and Hint to catch pokemons. This Autocatcher will have a **120** seconds cooldown, this means the free version will catch **720** pokemons daily. To catch more than **720** pokemons please buy the premium plan by messaging `Flaky#6080`
+
+[![Download](http://img.shields.io/badge/status-unmaintained-red.png)](https://replit.com/)
 
 ### Step 1
 
